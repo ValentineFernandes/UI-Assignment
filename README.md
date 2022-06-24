@@ -14,9 +14,26 @@
 <img alt= "Watchers" src="https://img.shields.io/github/watchers/ValentineFernandes/UI-Assignment?color=inactive" />
 <img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/UI-Assignment?color=inactive" />
 </p>
+
+> It's an assignment.
+
+> It's a website that's compatible with mobile devices.
+
+
 <div align="center">
 <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/ui.JPG">
 </div>
 
-You can visit the website here <br>
-https://valentinefernandes.github.io/UI-Assignment/
+# 💻 Technologies used
+<img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-0066FF?style=for-the-badge&logo=css3&logoColor=white">
+
+# 👩‍💻 IDE used
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+# 🌐 Visit the website here
+<a href="https://valentinefernandes.github.io/UI-Assignment/">  
+<img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"></a>
+
+# 📕 License
+This project is under <a href="https://github.com/ValentineFernandes/UI-Assignment/blob/main/LICENSE">MIT</a> license.  
