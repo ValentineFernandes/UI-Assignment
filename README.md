@@ -14,8 +14,9 @@
 <img alt= "Watchers" src="https://img.shields.io/github/watchers/ValentineFernandes/UI-Assignment?color=inactive" />
 <img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/UI-Assignment?color=inactive" />
 </p>
-
-
+<div align="center">
+<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/ui.JPG">
+</div>
 
 You can visit the website here <br>
 https://valentinefernandes.github.io/UI-Assignment/
