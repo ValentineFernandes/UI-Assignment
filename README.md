@@ -15,7 +15,7 @@
 <img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/UI-Assignment?color=inactive" />
 </p>
 
-> It's an assignment.
+> It's an assignment where a simple form is created to submit blog content and display on the frontend.
 
 > It's a website that's compatible with mobile devices.
 
